@@ -1,0 +1,8 @@
+{
+	"item":["1","2","3"],
+	"title":["A Brief History of Time", "Divergent", "Fundamentals of Engineering Thermodynamics"],
+	"author":["Stephen Hawking", "Veronica Roth", "Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey"],
+	"country":["United Kingdom", "United States", "United States"],
+	"publicationDate":["March 1, 1988", "April 26, 2011", "December 7, 2010"],
+	"pages":[256, 487, 1004]	
+}

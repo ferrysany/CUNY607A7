@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8">
+<books>
+	<book>
+		<item>1</item>
+		<title>A Brief History of Time</title>
+		<author>Stephen Hawking</author>
+		<country>United Kingdom</country>
+		<publicationDate>March 1, 1988</publicationDate>
+		<pages>256</pages>
+	</book>
+	<book>
+		<item>2</item>
+		<title>Divergent</title>
+		<author>Veronica Roth</author>
+		<country>United States</country>
+		<publicationDate>April 26, 2011</publicationDate>
+		<pages>487</pages>
+	</book>
+	<book>
+		<item>3</item>
+		<title>Fundamentals of Engineering Thermodynamics</title>
+		<author>Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey</author>
+		<country>United States</country>
+		<publicationDate>December 7, 2010</publicationDate>
+		<pages>1004</pages>
+	</book>
+</books>
